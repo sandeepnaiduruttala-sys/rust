@@ -1,3 +1,6 @@
+pub mod variables;
+use variables::*;
+
 fn main() {
-    println!("hello world");
+    main1();
 }
